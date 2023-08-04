@@ -1,0 +1,22 @@
+Необходимое библотеки для assistant
+
+import pyttsx3
+import speech_recognition as sr
+import colorama
+from fuzzywuzzy import fuzz
+import datetime
+from os import system
+import sys
+from random import choice
+from pyowm import OWM
+from pyowm.utils.config import get_default_config
+import webbrowser
+import configparser
+import requests
+from bs4 import BeautifulSoup
+import re
+import cv2 
+
+
+
+PYTHON 3.9 +
